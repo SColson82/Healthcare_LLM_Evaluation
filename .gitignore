@@ -1,3 +1,16 @@
+# additional files to ignore
+Bio_ClinicalBERT/
+Bio_Discharge_Summary_BERT/
+biomedical-ner-all/
+BiomedNLP-PubMedBERT-base-uncased-abstract-fulltext/
+gatortron_og_1/
+HC_DATA/
+layoutlmv3-base/
+medquad_xml/
+models--bvanaken--CORe-clinical-diagnosis-prediction/
+models--yikuan8--Clinical-BigBird/
+models--yikuan8--Clinical-Longformer/
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
